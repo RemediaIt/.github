@@ -24,3 +24,6 @@
 - [ ] Link do dokumentacji
 - [ ] Przeszedł Code Review (≥1 dev)
 - [ ] Lokalnie uruchomione testy automatyczne (unit/integration)
+
+{{MIGRATIONS}}
+{{SEEDERS}}
