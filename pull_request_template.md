@@ -23,16 +23,7 @@
 - [ ] Wpływ na responsywność / layout (niepotrzebne usunąć)
 - [ ] Wymaga zmian w konfiguracji / DevOps
 - [ ] Inne: …
-
-<details>
-<summary>📦 Migracje DB (jeśli dotyczy)</summary>
-
-- **Skrypt migracji**: …
-- **Plan rollbacku**: …
-- **Szacowany czas**: …
-- **Wpływ na dane / downtime**: …
-</details>
-
+      
 ---
 
 ## 🧪 Testy / weryfikacja
@@ -87,3 +78,6 @@
 - [ ] Przeszedł Code Review (≥1 dev)
 - [ ] Testy zielone w CI
 - [ ] (Jeśli dotyczy) migracje/monitoring/feature flag gotowe
+
+{{MIGRATIONS}}
+{{SEEDERS}}
