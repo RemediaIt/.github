@@ -27,3 +27,4 @@
 
 {{MIGRATIONS}}
 {{SEEDERS}}
+{{COVERAGE}}
