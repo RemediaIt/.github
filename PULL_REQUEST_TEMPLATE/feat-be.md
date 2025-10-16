@@ -7,7 +7,7 @@
 | Typ          | Link |
 |--------------|------|
 | Jira ticket  | [{{TICKET}}](https://remedia-it.atlassian.net/browse/{{TICKET}}) |
-| Dokumentacja | [Confluence](https://confluence.example.com/...) |
+| Dokumentacja |  |
 
 ---
 
